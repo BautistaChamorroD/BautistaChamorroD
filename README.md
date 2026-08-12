@@ -28,7 +28,8 @@ Durante mi formación trabajé con desarrollo de APIs, arquitectura de microserv
 
 **Bases de datos**
 
-<img src="https://skillicons.dev/icons?i=mssql,mongodb,redis" alt="SQL Server, MongoDB, Redis" />
+<img src="https://skillicons.dev/icons?i=mongodb,redis" alt="MongoDB, Redis" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 
 **Herramientas**
 
