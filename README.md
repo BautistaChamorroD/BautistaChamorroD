@@ -47,9 +47,6 @@ Busco una oportunidad **Trainee / Junior** donde pueda aportar mis conocimientos
 
 ### 📫 Contacto
 
-📧 **Email:** [bautistachamorro09@gmail.com](mailto:bautistachamorro09@gmail.com)
+📧 **Email:** [bautistachamorro09@gmail.com](mailto:bautistachamorro07@gmail.com)
 📍 **Pilar, Córdoba, Argentina**
 
----
-
-⭐ Si alguno de mis proyectos te resulta interesante, ¡no dudes en darle una estrella!
