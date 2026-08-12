@@ -1,52 +1,62 @@
-# 👋 ¡Hola! Soy Bautista Chamorro
+<div align="center">
 
-💻 **Desarrollador Full-Stack Junior** | 🎓 **Estudiante de Tecnicatura en Programación — UTN**
+# Hola, soy Bautista Chamorro 👋
 
-Me apasiona el desarrollo de software y actualmente estoy enfocado en seguir creciendo como desarrollador, especialmente en el área de **Backend**.
+### Desarrollador Full-Stack Junior · Estudiante de Tecnicatura en Programación (UTN)
 
-🚀 Durante mi formación trabajé con desarrollo de APIs, arquitectura de microservicios, programación orientada a objetos, patrones de diseño y testing.
+Me apasiona el desarrollo de software y estoy enfocado en seguir creciendo como desarrollador, especialmente en **Backend**.
 
-### 🧑‍💻 Tech Stack
+</div>
 
-#### ⚙️ Backend
+<br>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+## Sobre mí
 
-#### 🎨 Frontend
+Durante mi formación trabajé con desarrollo de APIs, arquitectura de microservicios, programación orientada a objetos, patrones de diseño y testing.
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+<br>
 
-#### 🗄️ Bases de Datos
+## Tech Stack
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+**Backend**
 
-#### 🛠️ Herramientas & Otros
+<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet" alt="Java, Spring Boot, C#, .NET" />
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge\&logo=visualstudio\&logoColor=white)
+**Frontend**
 
-### 📚 Actualmente aprendiendo
+<img src="https://skillicons.dev/icons?i=angular,ts" alt="Angular, TypeScript" />
 
-* 🔹 Desarrollo Backend y APIs
-* 🔹 Arquitectura de microservicios
-* 🔹 Buenas prácticas y patrones de diseño
-* 🔹 Testing de software
-* 🔹 Desarrollo Full-Stack
+**Bases de datos**
 
-### 🎯 Objetivo
+<img src="https://skillicons.dev/icons?i=mssql,mongodb,redis" alt="SQL Server, MongoDB, Redis" />
+
+**Herramientas**
+
+<img src="https://skillicons.dev/icons?i=git,github,maven,visualstudio" alt="Git, GitHub, Maven, Visual Studio" />
+
+<br>
+
+## Actualmente aprendiendo
+
+- Desarrollo Backend y APIs
+- Arquitectura de microservicios
+- Buenas prácticas y patrones de diseño
+- Testing de software
+- Desarrollo Full-Stack
+
+<br>
+
+## Objetivo
 
 Busco una oportunidad **Trainee / Junior** donde pueda aportar mis conocimientos, trabajar en proyectos reales y continuar desarrollándome profesionalmente dentro del mundo IT.
 
-### 📫 Contacto
+<br>
 
-📧 **Email:** [bautistachamorro09@gmail.com](mailto:bautistachamorro07@gmail.com)
-📍 **Pilar, Córdoba, Argentina**
+## Contacto
 
+<div align="left">
+
+📧 [bautistachamorro09@gmail.com](mailto:bautistachamorro09@gmail.com)
+📍 Pilar, Córdoba, Argentina
+
+</div>
